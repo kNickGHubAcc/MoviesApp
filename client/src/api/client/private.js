@@ -2,7 +2,7 @@ import axios from "axios";
 import queryString from "query-string";
 
 
-const baseURL = "https://moonflix-api.vercel.app/api/v1/";     //Βασική διεύθυνση URL του API
+const baseURL = "https://my-movies-app-server.vercel.app/api/v1/";     //Βασική διεύθυνση URL του API
 
 
 //Δημιουργία ενός HTTP client με χρήση Axios, για αποστολή requests στον server
